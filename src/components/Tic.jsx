@@ -1,7 +1,5 @@
 import React, { useState, useRef } from "react";
 import "./Tic.css";
-// import circle_icon from "./../assest/circle.png";
-// import cross_icon from "./../assest/cross.png";
 
 let data = ["", "", "", "", "", "", "", "", ""];
 
