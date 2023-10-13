@@ -1,0 +1,11 @@
+import Tic from "./components/Tic";
+
+function App() {
+  return (
+    <div className="App">
+     <Tic/>
+    </div>
+  );
+}
+ 
+export default App;
