@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe Game
+
+![Screenshot](https://github.com/rensibhimani/tic_tac_toe_game/assets/137809172/7eeb48e8-be4b-4e01-977e-ece46c74994e)
+
+![result](https://github.com/rensibhimani/tic_tac_toe_game/assets/137809172/3af8a537-31ed-40bf-8b18-80a811f2fba1)
+![Scre](https://github.com/rensibhimani/tic_tac_toe_game/assets/137809172/57607975-b3ba-42d8-bddb-9a182021f242)
+
+# Getting Started with Create React App!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
